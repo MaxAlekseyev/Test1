@@ -1,0 +1,20 @@
+/* Basic styles */
+* { font-size: 100.01%; }
+html { font-size: 62.5%; }
+body{
+  text-align: center;
+  background: #fff;
+  margin: 0; padding: 0;
+  font: normal normal 120% Arial, Helvetica, Verdana, sans-serif;
+}
+* { outline: none; }
+form{ margin: 0; padding: 0; }
+.clear, .clr{ clear: both; overflow: hidden; height: 0px; }
+img { border:none; }
+header, nav, section, article, aside, footer{ display: block;}
+/* ---------------------------------- */
+.container{
+  width: 1020px;
+  text-align: left;
+  margin: 0 auto 0 auto;
+}
