@@ -9,9 +9,6 @@ Read me now
 Read me now
 Read me now
 Read me now0
-Read me now0
-Read me now0
---------------------------------
 newone
 
 bbbbbbbbbbbbbbbbbbbbbbb
